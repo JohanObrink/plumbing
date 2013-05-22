@@ -1,0 +1,13 @@
+{
+  "name": "plumbing",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jsPlumb": "git://github.com/sporritt/jsPlumb.git#1.4.1",
+    "jquery": "~2.0.0"
+  }
+}
